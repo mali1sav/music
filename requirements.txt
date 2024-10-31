@@ -1,0 +1,12 @@
+requests==2.31.0
+pytube==15.0.0
+pydub==0.25.1
+python-dotenv==1.0.0
+yt-dlp==2023.11.16
+streamlit==1.28.0
+rich==15.1.0
+base64==0.2.0
+hashlib==0.1.1
+tempfile==1.0.0
+json==2.0.9
+
